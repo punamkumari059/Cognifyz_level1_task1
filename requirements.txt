@@ -1,0 +1,29 @@
+
+---
+
+### ✅ Step 6: Create `requirements.txt`
+
+Still in the root folder, create `requirements.txt`  
+📄 Contents:
+
+
+---
+
+## 📦 requirements.txt
+
+---
+
+## ✅ FINAL CHECKLIST
+
+| Task                         | Done? |
+|-----------------------------|-------|
+| Dataset renamed to `restaurants.csv` in `data/` | ✅ |
+| Python script working in `scripts/`             | ✅ |
+| Output CSV file created in `output/`            | ✅ |
+| `README.md` written                            | ✅ |
+| Code tested and recorded (for LinkedIn)         | 🎥 Optional |
+
+---
+
+Would you like me to generate this as a downloadable `.zip` folder or prepare a Jupyter Notebook version of it?
+
